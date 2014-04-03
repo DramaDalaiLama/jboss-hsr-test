@@ -32,7 +32,7 @@
 
   
       <build>
-    <finalName>${maven.build.timestamp}</finalName>
+    <finalName>hsr-test</finalName>
      <plugins>
       <plugin>
 	  <artifactId>maven-assembly-plugin</artifactId>
